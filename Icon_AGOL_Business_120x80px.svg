@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="150"
-   height="100"
-   viewBox="0 0 150 100"
+   width="120"
+   height="80"
+   viewBox="0 0 120 80"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Icon_AGOL_Business_150x100px.svg">
+   sodipodi:docname="Icon_AGOL_Business_120x80px.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="36.808596"
+     inkscape:cx="-15.869975"
      inkscape:cy="59.039644"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -53,25 +53,25 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-952.36216)">
+     transform="translate(0,-972.36216)">
     <rect
        style="opacity:1;fill:#56beeb;fill-opacity:1"
        id="rect4136-4-5-6-2-0-6-4-6-8-81"
-       width="150"
-       height="99.999893"
+       width="120"
+       height="80"
        x="0"
-       y="952.36224" />
+       y="972.36218" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="34.24707"
-       y="1009.3739"
+       x="23.544495"
+       y="1018.0592"
        id="text4873-0-59-0-00-5-5-8-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4875-4-45-5-9-9-3-4-1"
-         x="34.24707"
-         y="1009.3739"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT Bold';letter-spacing:-0.99999988px;fill:#ffffff">Business</tspan></text>
+         x="23.544495"
+         y="1018.0592"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT Bold';letter-spacing:-0.99999988px;fill:#ffffff">Business</tspan></text>
   </g>
 </svg>
