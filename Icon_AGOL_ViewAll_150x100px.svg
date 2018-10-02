@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="150"
-   height="100"
-   viewBox="0 0 150 100"
+   width="120"
+   height="80"
+   viewBox="0 0 120 80"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Icon_AGOL_ViewAll_150x100px.svg">
+   sodipodi:docname="Icon_AGOL_ViewAll_120x80px.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="74.665738"
-     inkscape:cy="41.896787"
+     inkscape:cx="-3.2670258"
+     inkscape:cy="-0.43183022"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,40 +53,40 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-952.36216)">
+     transform="translate(0,-972.36216)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1"
        id="rect4136-4-5-6-2-0-6-4-6-8-1-4"
-       width="150"
-       height="99.999893"
+       width="120"
+       height="80"
        x="0"
-       y="952.36224" />
+       y="972.36218" />
     <rect
        style="opacity:0.5;fill:#152128;fill-opacity:1"
        id="rect4136-4-5-6-2-0-6-4-6-8-1-4-3"
-       width="150"
-       height="99.999893"
+       width="120"
+       height="80"
        x="0"
-       y="952.36224" />
+       y="972.36218" />
     <g
-       transform="translate(-774.46716,242.48331)"
-       id="g4329">
+       id="g4160"
+       transform="translate(0,10.657815)">
       <text
          stroke="null"
          stroke-opacity="null"
          fill-opacity="null"
-         x="813.61267"
-         y="749.62103"
+         x="30.868225"
+         y="992.10437"
          id="text-3"
          font-size="24"
          xml:space="preserve"
          font-weight="bold"
          style="font-weight:bold;font-size:24.36388969px;font-family:Roboto, 'Avenir Next W01', 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;text-anchor:start;fill:#ffffff;stroke-width:0"><tspan
            id="tspan4327"
-           style="font-size:20px">View all</tspan></text>
+           style="font-size:16.25px">View all</tspan></text>
       <path
          stroke="null"
-         d="m 850.96716,756.45306 c -7.73197,0 -14,6.26804 -14,14.00001 0,7.73194 6.26804,14.00001 14,14.00001 7.73197,0 14,-6.26807 14,-14.00001 0,-7.73198 -6.26802,-14.00001 -14,-14.00001 z m -2.24918,23.3679 -3.40631,-3.40927 5.95974,-5.95936 -5.95974,-5.95937 3.40631,-3.40633 9.36677,9.3657 -9.36677,9.36862 z"
+         d="m 60,998.9364 c -6.627403,0 -12,5.3726 -12,12 0,6.6273 5.372606,12 12,12 6.627403,0 12,-5.3727 12,-12 0,-6.6274 -5.372589,-12 -12,-12 z m -1.927869,20.0296 -2.919694,-2.9222 5.108349,-5.1081 -5.108349,-5.108 2.919694,-2.9197 8.02866,8.0277 -8.02866,8.0303 z"
          id="arrow-4"
          inkscape:connector-curvature="0"
          style="fill:#ffffff;stroke-width:0" />
