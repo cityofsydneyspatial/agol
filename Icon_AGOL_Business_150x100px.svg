@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -25,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="58.336058"
-     inkscape:cy="44.896105"
+     inkscape:zoom="2.8"
+     inkscape:cx="36.808596"
+     inkscape:cy="59.039644"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,8 +33,7 @@
      inkscape:window-height="1057"
      inkscape:window-x="106"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     showguides="false" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -56,25 +52,21 @@
      id="layer1"
      transform="translate(0,-952.36216)">
     <rect
-       style="opacity:0.98000004;fill:#62b5e5;fill-opacity:1"
-       id="rect4136-4-5-6-2-0-4"
+       style="opacity:1;fill:#56beeb;fill-opacity:1"
+       id="rect4136-4-5-6-2-0-6-4-6-8-81"
        width="150"
-       height="99.999908"
-       x="4.5776367e-005"
-       y="952.36218"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200" />
+       height="99.999893"
+       x="0"
+       y="952.36224" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.24999809px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="34.24707"
        y="1009.3739"
-       id="text4873-0-59-0-0"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="200"
-       inkscape:export-ydpi="200"><tspan
+       id="text4873-0-59-0-00-5-5-8-0"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4875-4-45-5-0"
+         id="tspan4875-4-45-5-9-9-3-4-1"
          x="34.24707"
          y="1009.3739"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT Bold';letter-spacing:-0.99999988px;fill:#ffffff">Business</tspan></text>
