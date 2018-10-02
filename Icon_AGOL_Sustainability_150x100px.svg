@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="-30.691404"
+     inkscape:cx="40.430594"
      inkscape:cy="41.896787"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,24 +52,27 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-952.36216)">
-    <rect
-       style="opacity:1;fill:#7ac643;fill-opacity:1"
-       id="rect4136-4-5-6-2-0-6-4-6-8-8-6"
-       width="150"
-       height="99.999893"
-       x="0"
-       y="952.36224" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="17.017578"
-       y="1007.5819"
-       id="text4873-0-59-0-00-5-5-8-0-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4875-4-45-5-9-9-3-4-1-0"
-         x="17.017578"
+    <g
+       id="g4136">
+      <rect
+         y="952.36224"
+         x="0"
+         height="99.999893"
+         width="150"
+         id="rect4136-4-5-6-2-0-6-4-6-8-8-6"
+         style="opacity:1;fill:#7ac643;fill-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4873-0-59-0-00-5-5-8-0-9"
          y="1007.5819"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT Bold';letter-spacing:-0.99999988px;fill:#ffffff;fill-opacity:1">Sustainability</tspan></text>
+         x="17.017578"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Swis721 BT';-inkscape-font-specification:'Swis721 BT Bold';letter-spacing:-0.99999988px;fill:#ffffff;fill-opacity:1"
+           y="1007.5819"
+           x="17.017578"
+           id="tspan4875-4-45-5-9-9-3-4-1-0"
+           sodipodi:role="line">Sustainability</tspan></text>
+    </g>
   </g>
 </svg>
