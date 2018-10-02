@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="-3.2670258"
+     inkscape:cx="-55.945597"
      inkscape:cy="-0.43183022"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -68,28 +68,24 @@
        height="80"
        x="0"
        y="972.36218" />
-    <g
-       id="g4160"
-       transform="translate(0,10.657815)">
-      <text
-         stroke="null"
-         stroke-opacity="null"
-         fill-opacity="null"
-         x="30.868225"
-         y="992.10437"
-         id="text-3"
-         font-size="24"
-         xml:space="preserve"
-         font-weight="bold"
-         style="font-weight:bold;font-size:24.36388969px;font-family:Roboto, 'Avenir Next W01', 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;text-anchor:start;fill:#ffffff;stroke-width:0"><tspan
-           id="tspan4327"
-           style="font-size:16.25px">View all</tspan></text>
-      <path
-         stroke="null"
-         d="m 60,998.9364 c -6.627403,0 -12,5.3726 -12,12 0,6.6273 5.372606,12 12,12 6.627403,0 12,-5.3727 12,-12 0,-6.6274 -5.372589,-12 -12,-12 z m -1.927869,20.0296 -2.919694,-2.9222 5.108349,-5.1081 -5.108349,-5.108 2.919694,-2.9197 8.02866,8.0277 -8.02866,8.0303 z"
-         id="arrow-4"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke-width:0" />
-    </g>
+    <text
+       style="font-weight:bold;font-size:24.36388969px;font-family:Roboto, 'Avenir Next W01', 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;text-anchor:start;fill:#ffffff;stroke-width:0"
+       font-weight="bold"
+       xml:space="preserve"
+       font-size="24"
+       id="text-3"
+       y="1002.7622"
+       x="30.868225"
+       fill-opacity="null"
+       stroke-opacity="null"
+       stroke="null"><tspan
+         style="font-size:16.25px"
+         id="tspan4327">View all</tspan></text>
+    <path
+       style="fill:#ffffff;stroke-width:0"
+       inkscape:connector-curvature="0"
+       id="arrow-4"
+       d="m 60,1011.5942 c -6.627403,0 -12,5.3726 -12,12 0,6.6273 5.372606,12 12,12 6.627403,0 12,-5.3727 12,-12 0,-6.6274 -5.372589,-12 -12,-12 z m -1.927869,20.0296 -2.919694,-2.9222 5.108349,-5.1081 -5.108349,-5.108 2.919694,-2.9197 8.02866,8.0277 -8.02866,8.0303 z"
+       stroke="null" />
   </g>
 </svg>
